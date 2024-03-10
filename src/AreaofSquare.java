@@ -11,5 +11,6 @@ public class AreaofSquare
     {
         AreaofSquare areaofsquare = new AreaofSquare();
         areaofsquare.AoS(10);
+        System.out.println("This is my main method");
     }
 }
