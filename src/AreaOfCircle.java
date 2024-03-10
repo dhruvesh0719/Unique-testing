@@ -17,6 +17,7 @@ public class AreaOfCircle
         AreaOfCircle areaofcircle = new AreaOfCircle();
         areaofcircle.circle(5);
         System.out.println("New branch added");
+        System.out.println("New branch added");
     }
 
 }
